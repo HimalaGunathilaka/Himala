@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **YutharsanS/YutharsanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>📊 GitHub Stats</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=YutharsanS&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<h2>📈 GitHub Contributions</h2>
+
+![](https://github-contributor-stats.vercel.app/api?username=YutharsanS&limit=5&theme=flat&combine_all_yearly_contributions=true)

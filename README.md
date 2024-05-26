@@ -15,7 +15,27 @@ Here are some ideas to get you started:
 
 <h2>📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=YutharsanS&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YutharsanS&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YutharsanS&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YutharsanS&show_icons=true" />
+</picture>
 <h2>📈 GitHub Contributions</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=YutharsanS&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<picture>
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=YutharsanS&limit=4&theme=dark&combine_all_yearly_contributions=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=YutharsanS&limit=4&combine_all_yearly_contributions=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YutharsanS&show_icons=true" />
+</picture>

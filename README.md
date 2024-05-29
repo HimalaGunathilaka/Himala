@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 I like learning new stuff.... 
+
 <h2>📊 GitHub Stats</h2>
 
 <picture>

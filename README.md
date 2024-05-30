@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I like learning new stuff.... 
+🌱 I like learning new stuff.... </br> </br> 
+[![roadmap.sh](https://roadmap.sh/card/tall/6645f5c2f4bbac657043d80b?variant=dark&roadmaps=computer-science%2Cjava)](https://roadmap.sh)
 
 <h2>📊 GitHub Stats</h2>
 
